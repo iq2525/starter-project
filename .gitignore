@@ -61,4 +61,4 @@ typings/
 .next
 
 # Ignore dist files
-dist
+dist/
